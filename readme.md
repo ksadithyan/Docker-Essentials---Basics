@@ -1,5 +1,9 @@
+> **Note:** Check out the other branch `my-actual-note` to see what I originally wrote before modifying it with AI!  
+> &emsp;&emsp;&emsp;&emsp;I modified the main branch's `README.md` for better readability!
+
+
 <div align="center">
-Note: checkout the other branch to see my actual notes before modifications :D
+
 # 🐳 Docker Basics — Study Notes
 
 **From `docker run` to Compose, BuildKit, networking and registries**
