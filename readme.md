@@ -1,5 +1,5 @@
 <div align="center">
-
+Note: checkout the other branch to see my actual notes before modifications :D
 # 🐳 Docker Basics — Study Notes
 
 **From `docker run` to Compose, BuildKit, networking and registries**
